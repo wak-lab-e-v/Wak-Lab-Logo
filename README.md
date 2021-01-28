@@ -14,7 +14,7 @@ Zur Erstellung des Logos im Pixelstil wurde hier die Software [Aseprite](https:/
 ![Wak-Lab Logo animiert](export/logo-slogan-gif.gif)
 
 ### Variante 1
-![Wak-Lab Logo v1a](export/logo-slogan-v1a.png) | ![Wak-Lab Logo v1b](export/logo-slogan-v1b.png)
+![Wak-Lab Logo v1a](export/logo-slogan-v1a.png) ![Wak-Lab Logo v1b](export/logo-slogan-v1b.png)
 
 ### Variante 2
 ![Wak-Lab Logo v2a](export/logo-slogan-v2a.png)
